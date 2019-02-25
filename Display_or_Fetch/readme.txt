@@ -1,0 +1,1 @@
+CURL version should be compatible with PHP version (5.6 and 7.2)
